@@ -81,27 +81,11 @@ function ipCommand(message) { // Handle IP command
 
 client.on('message', msg=>{
     if(msg.content === "Hello"){
-        msg.reply('smd boyo')
-    } else if(msg.content === "Nirad is"){
-        msg.reply('dotish')
-    } else if(msg.content === "Is Nirad good at maths?"){
-        msg.reply('no')
-    } else if(msg.content === "Is nirad good at maths?"){
-        msg.reply('uwu yes he is')
-    } else if(msg.content === "Is Nirad cute?"){
-    msg.reply('uwu yes he is')
-    } else if(msg.content === "Is nirad cute?"){
-        msg.reply('He is a big huggable bear')
-    } else if(msg.content === "nirad is"){
-        msg.reply('A retard who is admittedly good at maths tbvh')
-    } else if(msg.content === "Nirad is?"){
-        msg.reply('I dont know, I havent met him :(')
-    } else if(msg.content === "nirad is?"){
-        msg.reply('sexy')
+        msg.reply('hi!')
     } else if(msg.content === "help"){
         msg.reply('no help yourself')
     }  else if(msg.content === "hello"){
-        msg.reply('cunt')
+        msg.reply('no')
     }  else if(msg.content === "Say the line bot"){
         msg.reply('NIRAD HOW SHE GOING')
     }   else if(msg.content === "hello"){
@@ -112,15 +96,11 @@ client.on('message', msg=>{
         msg.reply('Command is depreciated. Please type .status or +online instead! ')
     } 
 	else if(msg.content === "Rain"){
-        msg.reply('is a jewman bastarD')
+        msg.reply('is a ')
     }
 	else if(msg.content === "rain"){
         msg.reply('Who?? The guy who cannot play cs?')
     }
-	else if(msg.content === "no pussy shit"){
-        msg.reply('yeah no pussy shit bitch boy!')
-    }
-    
 
 })
 
