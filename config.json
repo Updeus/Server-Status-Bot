@@ -1,0 +1,15 @@
+{
+  "token": "NzcxNjY4MjM3MjkyNjY2ODky.X5veDA.cdXOZdV2M9tJ5jaDTEJpfXbryuI",
+  "prefix": "+",
+  "serverAddress": "170.84.9.22",
+  "serverPort": "25565",
+  "serverName": "UwU",
+  "updateInterval": "50sec",
+  "showPlayerSample": true,
+  "debugMode": true,
+  "debugLvl": 1,
+  "pinUpdate": true,
+  "pinId": "867957950717763594",
+  "pinGuildId": "528411895812587520",
+  "pinChanId": "593931159948361738"
+}
