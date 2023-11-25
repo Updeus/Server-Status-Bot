@@ -1,7 +1,7 @@
 {
-  "token": "NzcxNjY4MjM3MjkyNjY2ODky.X5veDA.cdXOZdV2M9tJ5jaDTEJpfXbryuI",
+  "token": "insert token here",
   "prefix": "+",
-  "serverAddress": "170.84.9.22",
+  "serverAddress": "insert server address here",
   "serverPort": "25565",
   "serverName": "UwU",
   "updateInterval": "50sec",
@@ -9,7 +9,7 @@
   "debugMode": true,
   "debugLvl": 1,
   "pinUpdate": true,
-  "pinId": "867957950717763594",
-  "pinGuildId": "528411895812587520",
-  "pinChanId": "593931159948361738"
+  "pinId": "insert pinID here",
+  "pinGuildId": "inser pinGuildId here",
+  "pinChanId": "insert pin channel id here"
 }
