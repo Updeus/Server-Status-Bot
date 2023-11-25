@@ -17,11 +17,6 @@ Nirad is a Discord bot designed to provide various functionalities and entertain
 - Use the `+skip` command to skip the currently playing song.
 - Use the `+stop` command to stop the music playback.
 
-### Custom Commands
-
-- Responds to custom commands such as greetings and inquiries about Nirad's abilities.
-- Example commands: `Hello`, `Nirad is`, `Is Nirad good at maths?`, `Is Nirad cute?`, and more.
-
 ### Pinning Server Status
 
 - Automatically updates and pins the Minecraft server status in a specified channel.
